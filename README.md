@@ -47,7 +47,7 @@ Read more about it here: https://aragon.org/dao
 ## Misc
 
 - [Overview of DAO Ressources](https://wiki.metagame.wtf/docs/great-houses/house-of-daos) (2021) by House of DAOs
-- “[Coordination Failures – Know Thy Enemy” (2021)](https://newsletter.banklesshq.com/p/know-thy-enemy-coordination-failures) by Kevin Owocki
+- [Coordination Failures – Know Thy Enemy](https://newsletter.banklesshq.com/p/know-thy-enemy-coordination-failures) (2021) by Kevin Owocki
 
 # Contribute
 Contributions welcome!  In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.. Read the [contribution guidelines](contributing.md) first. Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
