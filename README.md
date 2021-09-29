@@ -20,7 +20,7 @@ Read more about it here: https://aragon.org/dao
 ## DAO Overview
 
 - [DAOs – The New Coordination Frontier – September Report](https://docs.google.com/presentation/d/1fLJvPOvibcCUpJ9ES44_cdoX5Hb7LpDaloGWz5FbUEM/mobilepresent?slide=id.gec41538503_0_399) (2021) by Gitcoin
-- [DAOs in Simple Terms](https://ethereum.org/en/dao/) (2021) by Ethereum Org
+- [DAOs in Simple Terms](https://ethereum.org/en/dao/) (2021) by Ethereum Foundation
 - [DAOs - The next frontier of human coordination](https://aragon.org/dao) (2021) by Aragon DAO
 - [What Is a DAO?](https://coinmarketcap.com/alexandria/article/what-is-a-dao) (2021) by Werner Vermaak
 - [The TAO of the DAO](https://guide.taoofthedao.org/) (2019) by Kate Beecroft and Francesca Pick
