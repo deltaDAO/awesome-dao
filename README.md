@@ -1,7 +1,4 @@
 A DAO is an organization form expressed as software. Its purpose is to facilitate coordination via collective ownership. It services pre-defined goals, and groups use it to reduce coordination failure. DAOs are an inclusive, transparent and global model for human coordination. Not everything can or should be a DAO.
-
-Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
-
 ## DAOs Explained by Aragon
 
 "A DAO is a group of people with no central management that coordinate over the internet around a shared set of rules to achieve a common mission.
@@ -53,5 +50,4 @@ Read more about it here: https://aragon.org/dao
 - “[Coordination Failures – Know Thy Enemy” (2021)](https://newsletter.banklesshq.com/p/know-thy-enemy-coordination-failures) by Kevin Owocki
 
 # Contribute
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first. Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
+Contributions welcome!  In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.. Read the [contribution guidelines](contributing.md) first. Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning).
