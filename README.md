@@ -24,6 +24,7 @@ Read more about it here: https://aragon.org/dao
 - [DAOs - The next frontier of human coordination](https://aragon.org/dao) (2021) by Aragon DAO
 - [What Is a DAO?](https://coinmarketcap.com/alexandria/article/what-is-a-dao) (2021) by Werner Vermaak
 - [The TAO of the DAO](https://guide.taoofthedao.org/) (2019) by Kate Beecroft and Francesca Pick
+- [DAO Landscape](https://coopahtroopa.mirror.xyz/_EDyn4cs9tDoOxNGZLfKL7JjLo5rGkkEfRa_a-6VEWw) (2021) by Cooper Turley
 
 ## Use Cases for DAOs
 
