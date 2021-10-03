@@ -1,3 +1,5 @@
+# Awesome DAO
+
 A DAO is an organization form expressed as software. Its purpose is to facilitate coordination via collective ownership. It services pre-defined goals, and groups use it to reduce coordination failure. DAOs are an inclusive, transparent and global model for human coordination. Not everything can or should be a DAO.
 ## DAOs Explained by Aragon
 
@@ -40,10 +42,11 @@ Read more about it here: https://aragon.org/dao
 - [MakerDAO Has Come Full Circle](https://blog.makerdao.com/makerdao-has-come-full-circle/) (2021) by Rune Christensen
 - [BanklessDAO - Mission, Vision, and Values](https://www.notion.so/Mission-Vision-and-Values-05d66a9089d643d4981ffcad9e446163) (2021) by BanklessDAO
 
-## Ecosystem 
+## Ecosystem
 
 - [The Year of the DAO Comeback](https://medium.com/amentum/the-year-of-the-dao-comeback-9c888b44980) (2019) by Steven McKie
 - [The State Of The DAOs](https://hackernoon.com/the-state-of-the-daos-b7cba318460b) (2019) by Vu Gaba Vineb
+- [An Overview of the Venture DAO Ecosystem](https://angeldao.medium.com/) (2021) by AngelDAO
 
 ## Forums
 
