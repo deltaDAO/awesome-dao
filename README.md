@@ -1,3 +1,5 @@
+# Awesome DAO
+
 A DAO is an organization form expressed as software. Its purpose is to facilitate coordination via collective ownership. It services pre-defined goals, and groups use it to reduce coordination failure. DAOs are an inclusive, transparent and global model for human coordination. Not everything can or should be a DAO.
 ## DAOs Explained by Aragon
 
